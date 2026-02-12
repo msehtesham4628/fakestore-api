@@ -66,3 +66,4 @@ describe('productSlice reducer', () => {
         expect(newState.items).toEqual(products);
     });
 });
+

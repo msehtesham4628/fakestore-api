@@ -63,7 +63,7 @@ Instead of generic utilities, the project uses a custom design system built on *
 ### Setup
 1. **Clone & Enter**:
    ```bash
-   git clone https://github.com/safiyaRafi/fakestore-api.git
+   git clone https://github.com/msehtesham4628/fakestore-api.git
    cd fakestore-api
    ```
 
@@ -122,5 +122,6 @@ After running, you can find the detailed report in the `coverage/` directory.
 ---
 
 ## 📬 Contact & Links
-- **GitHub**: [github.com/safiyaRafi](https://github.com/safiyaRafi)
-- **Repo**: [safiyaRafi/fakestore-api](https://github.com/safiyaRafi/fakestore-api)
+- **GitHub**: [github.com/msehtesham4628](https://github.com/msehtesham4628)
+- **Repo**: [msehtesham4628/fakestore-api](https://github.com/msehtesham4628/fakestore-api)
+

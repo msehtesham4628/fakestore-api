@@ -108,3 +108,4 @@ export const selectCategories = (state) => state.products.categories;
 export const selectFilters = (state) => state.products.filters;
 
 export default productSlice.reducer;
+

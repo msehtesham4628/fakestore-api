@@ -33,3 +33,4 @@ describe('favoriteSlice reducer', () => {
         expect(actual.favorites).toHaveLength(0);
     });
 });
+

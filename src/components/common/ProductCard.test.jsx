@@ -27,3 +27,4 @@ describe('ProductCard Component', () => {
         expect(img).toHaveAttribute('src', product.image);
     });
 });
+

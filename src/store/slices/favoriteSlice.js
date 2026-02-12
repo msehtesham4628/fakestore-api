@@ -34,3 +34,4 @@ export const isFavorite = (state, productId) =>
     state.favorites.favorites.some(item => item.id === productId);
 
 export default favoriteSlice.reducer;
+

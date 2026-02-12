@@ -28,3 +28,4 @@ export function renderWithProviders(
 
     return { store, ...render(ui, { wrapper: Wrapper, ...renderOptions }) };
 }
+
